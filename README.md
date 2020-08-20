@@ -1,0 +1,2 @@
+# Mysqlnotes
+Mysqlbasic followed liyuting
